@@ -8,8 +8,8 @@
     "prod": "node server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Anuj",
+  "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "express": "^4.18.1",
